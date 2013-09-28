@@ -37,3 +37,6 @@ nosetests.xml
 #temp files
 *.swp
 *~
+
+#twisted
+twisted.log
