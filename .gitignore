@@ -39,4 +39,4 @@ nosetests.xml
 *~
 
 #twisted
-twisted.log
+twistd.log
